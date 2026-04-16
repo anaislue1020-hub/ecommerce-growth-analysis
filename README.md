@@ -113,6 +113,7 @@ The analysis is structured into four key areas:
 ---
 
 ## 10. Project Structure
+
 ```
 Ecommerce-Growth-Analysis/
 │
