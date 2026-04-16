@@ -113,6 +113,7 @@ The analysis is structured into four key areas:
 ---
 
 ## 10. Project Structure
+```
 Ecommerce-Growth-Analysis/
 │
 ├── README.md #  Project overview (EN)          
@@ -120,4 +121,5 @@ Ecommerce-Growth-Analysis/
 │
 ├── SQL/ # Data preparation & analysis queries
 ├── Data/ 
-└── Source: Kaggle dataset 
+└── Source: Kaggle dataset
+```
